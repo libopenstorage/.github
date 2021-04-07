@@ -1,0 +1,6 @@
+{
+    "name": "Stale PRs cron job",
+    "description": "Cron job for marking old PRs stale and in-review PRs stale",
+    "iconName": "example-icon"
+}
+
