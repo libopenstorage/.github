@@ -1,0 +1,6 @@
+{
+    "name": "PR metadata labels: area and size",
+    "description": "Adds a size and area label per PR request",
+    "iconName": "libopenstorage.svg"
+}
+
