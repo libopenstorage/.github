@@ -1,6 +1,6 @@
 {
-    "name": "PR metadata labels: area and size",
-    "description": "Adds a size and area label per PR request",
+    "name": "Add area and size labels to PRs",
+    "description": "Adds a size and area label per PR",
     "iconName": "libopenstorage"
 }
 

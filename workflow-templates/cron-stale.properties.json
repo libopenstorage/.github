@@ -1,5 +1,5 @@
 {
-    "name": "Stale PRs - old and in-review",
+    "name": "Mark PRs stale and in-review-stale",
     "description": "Cron job for marking old PRs stale and in-review PRs stale",
     "iconName": "libopenstorage"
 }
