@@ -1,0 +1,5 @@
+{
+    "name": "Slack Notifications for Stale PRs",
+    "description": "Sends a slack message to the team when a PR is marked stale",
+    "iconName": "libopenstorage"
+}
